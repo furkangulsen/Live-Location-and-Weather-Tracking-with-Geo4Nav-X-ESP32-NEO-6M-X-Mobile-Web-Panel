@@ -24,3 +24,11 @@ With the system we developed;
 - Automatic sending of GPS and weather data to the ThingSpeak IoT platform  
 - Cross-platform support via web panel and Flutter mobile application  
 - Stable wireless connectivity with optimized MCU resource management
+
+---
+
+## 🎥 Trailer
+
+[![Watch the Geo4Nav Demo Video](https://img.youtube.com/vi/ssZnAEMDvKY/0.jpg)](https://www.youtube.com/watch?v=ssZnAEMDvKY)
+
+*Click the image above to watch the video.*
