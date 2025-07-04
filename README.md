@@ -27,6 +27,13 @@ With the system we developed;
 
 ---
 
+## 🧠 NMEA GPRMC Decoding Resource
+
+During the development process, while analyzing and decoding **GPRMC** sentences from the GPS module, the following resource was particularly helpful in understanding the **NMEA** sentence structure and data fields:
+**[https://rl.se/gprmc](https://rl.se/gprmc)**
+
+---
+
 ## 🎥 Trailer
 
 [![Watch the Geo4Nav Demo Video](https://img.youtube.com/vi/ssZnAEMDvKY/0.jpg)](https://www.youtube.com/watch?v=ssZnAEMDvKY)
