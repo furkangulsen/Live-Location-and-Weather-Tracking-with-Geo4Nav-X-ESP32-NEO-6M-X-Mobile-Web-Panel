@@ -30,6 +30,7 @@ With the system we developed;
 ## 🧠 NMEA GPRMC Decoding Resource
 
 During the development process, while analyzing and decoding **GPRMC** sentences from the GPS module, the following resource was particularly helpful in understanding the **NMEA** sentence structure and data fields:
+
 **[https://rl.se/gprmc](https://rl.se/gprmc)**
 
 ---
